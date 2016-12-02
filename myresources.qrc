@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/MyFiles">
+        <file>SaddlebackLogo.jpg</file>
+        <file>map-location-md.png</file>
+    </qresource>
+</RCC>
