@@ -1,6 +1,6 @@
 # FastFoodFantasy
 
-[![Build Status](https://travis-ci.com/AcmeDVoid/FastFoodFantasy.svg?token=u2SJCaqsHMs5vGCjvbZp&branch=master)](https://travis-ci.com/AcmeDVoid/FastFoodFantasy)
+[![Build Status](https://travis-ci.com/adv3006/Fast-Food-Fantasy.svg?branch=master)](https://travis-ci.com/adv3006/Fast-Food-Fantasy)
 
 ## CS1D First Project - 2016
 1. Made by Eagle Eye - a team of four members
