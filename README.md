@@ -19,5 +19,5 @@ A program that allow foodie (food lover) starting at Saddleback College to plan 
 ### For more details, please go to the Eagle Eye's artifacts
 
 #### Note: Feel free to fork this project however if you're taking CS1D, I don't recommend doing that for two main reasons:
-* This project uses an old version of Qt and sqlLite and I won't update it.
+* This project uses an old version of Qt and sqlLite.
 * Academic Dishonesty, resulting an F for the course.
